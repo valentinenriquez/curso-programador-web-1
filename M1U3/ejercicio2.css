@@ -1,0 +1,45 @@
+h2{
+    text-transform: uppercase; /*mayuscula*/
+    text-align: center; /*alineacion - right - left*/
+    color: blue;
+    
+
+}
+h1{
+    text-align: center; /*alineacion - right - left*/
+    filter: grayscale(100%);
+    box-shadow: 15px 13px 0px 1px rgba(0,0,0,0.42);
+    
+}
+h1:hover{
+    filter: grayscale(0%);
+}
+li{color: chocolate;
+
+}
+
+/*aca trabajo con clases*/
+.destacados{
+    color: chartreuse;
+    font-weight: bold;
+}
+
+#amarillo{
+    background-color: yellow;
+}
+
+#amarillo:hover{
+    background-color: aqua;
+}
+
+#verde{
+    background-color: greenyellow;
+}
+
+#idiomas{
+    background-color: aqua;
+}
+
+#Experiencia{
+    background-color: aqua;
+}
