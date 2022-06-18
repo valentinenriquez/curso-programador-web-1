@@ -1,0 +1,11 @@
+{
+  "name": "m3u1-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentin Enriquez",
+  "license": "ISC"
+}
